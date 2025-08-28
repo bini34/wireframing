@@ -34,7 +34,39 @@ Strategic placement ensures users engage with key elements.
 
 ### 4. Functionality
 Functionality represents the interactive elements and features of the product.  
-- **Example:** Search bars, dropdown menus, or login forms show how users will interact with the system.  
 Including functionality in wireframes demonstrates the intended behavior before coding begins.
 
+
+## Types of Wireframes
+
+Wireframes are generally categorized into two main types: **low-fidelity** and **high-fidelity** wireframes. Each serves a different purpose in the design process.
+
+### Low-Fidelity Wireframes
+Low-fidelity wireframes are basic, simplified sketches or digital layouts. They use simple shapes, placeholders, and minimal detail to represent the structure and flow of a page or app. These wireframes:
+- Focus on layout, content hierarchy, and user flow
+- Avoid colors, images, and detailed typography
+- Are quick to create and easy to modify
+- Are typically used in the early stages of the design process to explore ideas and gather feedback
+
+**When to use:**
+- Brainstorming and ideation
+- Early stakeholder reviews
+- Rapid prototyping and iteration
+
+### High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and closely resemble the final product. They include specific UI elements, accurate spacing, and sometimes real content. These wireframes:
+- Show detailed design, including buttons, icons, and sometimes color or images
+- Provide a clear sense of the final layout and interactions
+- Are used to communicate precise requirements to developers and stakeholders
+- Take longer to create and update
+
+**When to use:**
+- Later stages of the design process
+- Usability testing
+- Handoff to development teams
+
 ---
+
+## What Type of Wireframe is Here?
+
+The wireframe presented in this document is a **high-fidelity wireframe** of a mobile app design. It features detailed UI elements, real content, and incorporates colors and visual styling to closely resemble the finished product. This high-fidelity approach provides a clear representation of the final design, making it suitable for usability testing, stakeholder presentations, and handoff to development teams.
