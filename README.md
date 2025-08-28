@@ -70,3 +70,27 @@ High-fidelity wireframes are more detailed and closely resemble the final produc
 ## What Type of Wireframe is Here?
 
 The wireframe presented in this document is a **high-fidelity wireframe** of a mobile app design. It features detailed UI elements, real content, and incorporates colors and visual styling to closely resemble the finished product. This high-fidelity approach provides a clear representation of the final design, making it suitable for usability testing, stakeholder presentations, and handoff to development teams.
+
+---
+
+## Popular Wireframing Tools
+
+There are several tools available for creating wireframes, each offering unique features to support different stages of the design process. Some of the most popular wireframing tools include:
+
+- **Figma** (recommended)
+- Adobe XD
+- Sketch
+- Balsamiq
+- Wireframe.cc
+
+### Figma: A Recommended Tool
+Figma is a cloud-based design tool widely used for wireframing, prototyping, and interface design. It is highly recommended for the following reasons:
+
+- **Real-Time Collaboration:** Multiple team members can work on the same file simultaneously, making it ideal for remote teams and feedback sessions.
+- **Cross-Platform:** Works directly in the browser or as a desktop app, supporting Windows, macOS, and Linux.
+- **Component Libraries:** Allows designers to create reusable components, ensuring consistency across projects.
+- **Prototyping:** Enables interactive prototypes without leaving the design environment.
+- **Version History:** Tracks changes and allows easy rollback to previous versions.
+- **Community Resources:** Offers a vast library of templates, UI kits, and plugins shared by the design community.
+
+Figma’s intuitive interface and powerful collaboration features make it an excellent choice for both low-fidelity and high-fidelity wireframing, as well as for the entire UI/UX design workflow.
